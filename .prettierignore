@@ -1,0 +1,8 @@
+node_modules
+.venv
+dist
+.arena
+package-lock.json
+playwright-report
+test-results
+public/licenses
