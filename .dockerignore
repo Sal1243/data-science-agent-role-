@@ -1,0 +1,15 @@
+.git
+.arena
+.venv
+node_modules
+dist
+__pycache__
+.pytest_cache
+.ruff_cache
+.env
+.env.*
+*.log
+data
+playwright-report
+test-results
+coverage
